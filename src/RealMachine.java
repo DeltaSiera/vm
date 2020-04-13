@@ -1,20 +1,6 @@
 
 public final class RealMachine {
 
-    //    private int r1;         //bendros paskirties registras
-//    private int r2;         //bendros paskirties registras
-//    private int ic;         //2 baitų virtualios mašinos porgramų skaitiklis
-//    private byte c;         //1 baito loginis trigeris
-//    private int ptr;        //4 baitų puslapių lentelės registras
-//    private int sp;         //4baitų steko viršūnės registras
-//    private Mode mode;      // vartotojo arba supervizoriaus režimas
-//    private byte si;
-//    private byte pi;
-//    private byte k1;
-//    private byte k2;
-//    private byte k3;
-//    private byte ti;        //taimerio trigeris
-//
     private static final int MAX_CODE_SEGMENT_SIZE = 256;
     private static final int MAX_STACK_SEGMENT_SIZE = 256;
 
